@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.env
+.env.*  
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytype/
+*_venv/
+
+# Node / web
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.build/
+
+# Data / models / outputs
+data/
+datasets/
+checkpoint*/
+checkpoints/
+runs/
+outputs/
+logs/
+wandb/
+runs/
+
+# Images / binaries you don't want in Git
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.pb
+*.zip
+*.tar
+*.tar.gz
+
+# Cache / temp
+*.tmp
+*.log
+.cache/
