@@ -10,11 +10,9 @@
 - 🧠 **CLIP-style contrastive training** with ResNet-18 or ViT-Tiny backbones  
 - 🌐 **Cross-dataset generalization** (trained on EuroSAT, tested zero-shot on UC Merced)  
 - ⚙️ **Modular OOP design** (Extractor / Encoder / Reorderer / Evaluator structure)  
-- 💡 **Three interactive demos**
-  1. **Semantic Earth Explorer** — text → image retrieval  
-  2. **GeoSimilarity Explorer** — image → image retrieval  
-  3. **Explain a Location** — coordinates → semantic neighborhood  
-
+- 💡 **Interactive demo**
+  - **Semantic Earth Explorer** — text → image retrieval  
+  
 ---
 
 ## 🧩 Project structure
