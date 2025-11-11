@@ -184,22 +184,6 @@ streamlit run demos/01_semantic_earth_explorer.py -- \
 
 ---
 
-## 💬 Citation
-If you use this project, please cite or mention it as:
-```
-Yadati, Karthik. *GeoVerse: A Unified Geospatial Embedding Space.*
-(2025) Globeholder.ai Prototype
-```
-
----
-
-## 👨‍💻 Author
-**Karthik Yadati** — [karthik.yadati@gmail.com](mailto:karthik.yadati@gmail.com)  
-Computer Vision & Applied AI Engineer  
-📍 Toulouse, France  
-
----
-
 ### 🏁 License
 MIT License © 2025 Karthik Yadati  
 Use freely for research and educational purposes.
