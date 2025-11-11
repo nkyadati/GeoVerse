@@ -1,7 +1,6 @@
 # 🌍 GeoVerse — Unified Geospatial Embedding Space
 
 > **GeoVerse** is a lightweight planetary foundation model prototype that learns a **shared embedding space** for **satellite imagery**, **natural-language descriptions**, and optionally **geographic coordinates**.  
-> It enables **text-to-image**, **image-to-image**, and **coordinate-to-image** retrieval — a step toward universal geospatial understanding.
 
 ---
 
